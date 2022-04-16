@@ -1,11 +1,11 @@
-# BrickBreaker
+# Hill Car Race
 
 By: Shatrujit Kumar, PG22
 
-Basic brick breaker game in Unity using rigidbodies, collisions, and the Mathf library
+A short physics-based hill car racer in Unity
 
 # Demo
-![Demo](https://github.com/pg22shatrujit/BrickBreaker/blob/main/BrickBreakerDemo.gif)
+![Demo](https://github.com/pg22shatrujit/HillRaceCar/blob/main/demo.gif)
 
 # GitHub Repo
-https://github.com/pg22shatrujit/BrickBreaker
+https://github.com/pg22shatrujit/HillRaceCar
